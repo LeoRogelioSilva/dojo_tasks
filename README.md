@@ -4,7 +4,7 @@ And introductional project using Chakra UI from https://youtu.be/iXsM6NkEmFc?si=
 ## Running Project
 ```bash
 $ npm install
-$ json-server -w ./data/db.json
+$ npm run start-server
 $ npm run dev
 ```
 

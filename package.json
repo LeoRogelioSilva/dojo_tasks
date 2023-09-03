@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start-server": "json-server -w ./data/db.json",
     "build": "vite build",
     "preview": "vite preview"
   },
